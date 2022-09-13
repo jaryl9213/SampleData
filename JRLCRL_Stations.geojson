@@ -7,7 +7,7 @@
 { "type": "Feature", "properties": { "ID": 2, "StationName": "Nanyang Crescent", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.682472088950234, 1.349212306894808 ] ] } },
 { "type": "Feature", "properties": { "ID": 3, "StationName": "Nanyang Gateway", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.687227066086479, 1.353869207544366 ] ] } },
 { "type": "Feature", "properties": { "ID": 4, "StationName": "Tawas", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.692882147529176, 1.350894487600237 ] ] } },
-{ "type": "Feature", "properties": { "ID": 5, "StationName": "Gek Poh", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.699758135616804, 1.348372546682041 ] ] } },
+{ "type": "Feature", "properties": { "ID": 5, "StationName": "Gek Poh", "StationID": "JW1", "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.699758135616804, 1.348372546682041 ] ] } },
 { "type": "Feature", "properties": { "ID": 7, "StationName": "Jurong West", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.709461363209968, 1.349731241765959 ] ] } },
 { "type": "Feature", "properties": { "ID": 8, "StationName": "Corporation", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.714923309703337, 1.353418001506681 ] ] } },
 { "type": "Feature", "properties": { "ID": 9, "StationName": "Hong Kah", "StationID": null, "LineName": "JRL" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 103.72726104971008, 1.359368696041614 ] ] } },
